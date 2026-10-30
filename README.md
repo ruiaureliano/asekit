@@ -1,15 +1,12 @@
 # ASEKit
 
-<p align="center">
-  <strong>Read and write Adobe Swatch Exchange palettes in Swift.</strong><br>
-  A small, dependency-free Swift Package for working with <code>.ase</code> color files.
-</p>
+[![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange?logo=swift)](https://swift.org)
+[![Platforms](https://img.shields.io/badge/platforms-macOS-lightgrey)](https://www.apple.com/macos/)
+[![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen?logo=swift)](https://swift.org/package-manager/)
 
-<p align="center">
-  <a href="https://swift.org">Swift 5.9+</a> ·
-  <a href="https://github.com/ruiaureliano/asekit/actions">Builds</a> ·
-  Swift Package Manager
-</p>
+Read and write Adobe Swatch Exchange palettes in Swift.
+
+A small, dependency-free Swift Package for working with `.ase` color files.
 
 ## Why ASEKit?
 
